@@ -89,7 +89,7 @@ function Item({ item }) {
 function Stats() {
   return (
     <footer className="stats">
-      you have x items on your list, and you already paked x
+      you have x items on your list, and you already paked
     </footer>
   );
 }
